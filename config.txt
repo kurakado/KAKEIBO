@@ -1,0 +1,3 @@
+"DEFAULT_USER_NAME" = 拓也
+"DEFAULT_GROUP_NAME" = グループ1
+"DATA_FILE" = data.csv
